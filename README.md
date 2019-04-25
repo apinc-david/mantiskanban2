@@ -7,7 +7,7 @@ Mantis Kanban that uses ajax and mantisconnect
 
 ###Version by Corey Gaspard (oryginal)
 * stable : https://github.com/cgaspard/mantiskanban (master)
-* LIVE DEMO!!! mantiskanban.com/mantisbt/mantiskanban/ <<<< DONT GO HERE, SITE TRIES TO INSTALL SOFTWARE - PUPS, MALWARE?
+* LIVE DEMO!!! mantiskanban.com/mantisbt/mantiskanban/ <<<< DONT GO HERE, SITE TRIES TO INSTALL SOFTWARE - PUPS, MALWARE? 
 
 ---
 ###Version by e-doceo
